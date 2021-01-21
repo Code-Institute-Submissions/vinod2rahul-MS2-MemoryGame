@@ -1,0 +1,21 @@
+.row{
+    text-align: center;
+    }
+.card{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #690909;
+    }
+.card:hover {
+    border: 3px solid black;
+            }
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.color-hiden{
+     background-color: #690909;
+}
