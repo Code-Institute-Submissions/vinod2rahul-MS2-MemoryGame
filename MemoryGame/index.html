@@ -3,30 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
-
+    <link rel="stylesheet" href="./style.css">
     <title>Memory Game</title>
 </head>
 <body>
-
-    <div class="container">
-        <div class="row">
-            <div class="card red color-hiden"> </div>
-            <div class="card blue color-hiden"> </div>
-            <div class="card red color-hiden"> </div>
-            <div class="card blue color-hiden"> </div>
-        </div>
+    <h1>Test your Memory</h1>
+    <p>Instructions <br> 
+        As the cards don’t match, it’s not a pair, so It turns them back over.<br> 
+        The two cards match, it’s a pair! It keeps the cards and can play again...<br> 
+    </p>
+    <div class="row">
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
     </div>
+    <div class="row">
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+    </div>
+    <div class="row">
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+    </div>
+    <div class="row">
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+      <div
+        class="card color-hidden"
+        onclick="onCardClicked(event)"
+      ></div>
+    </div>
+    <div class ="button">
+        <button type="submit" onclick="refreshPage()">RESET</button>
+    </div>
+    
+
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script>
-        $(document).ready(function(){
-  $(".color-hiden").click(function(){
-    $(this).removeClass('color-hiden');
-    
-  });
-});
-    </script>
+<script src="./index.js"></script>
+
 </body>
 </html>
