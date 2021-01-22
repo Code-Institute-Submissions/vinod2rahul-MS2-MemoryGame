@@ -1,5 +1,6 @@
 # Memory Game
-Milestone project-2: User- Interactive Front-end - Code Institute.This is a simple Memory Game, where the player can click on cards to match the colours, 
+Milestone project-2: User- Interactive Front-end - Code Institute.
+This is a simple Memory Game, where the player can click on cards to match the colours, 
 As the cards don’t match, it’s not a pair, so It turns them back over. The two cards match, it’s a pair! It keeps the cards and can play again.
 The player can reset the game at any point of time- It's a single-player game. Language version English.
 
@@ -23,10 +24,8 @@ The Colours should be dynamic, So the player doesn't have the chance to remembe
 ##  Structure
 I wanted the player to be able to quickly understand "How to play" 
 ##  Skeleton
-[Home wireframe](/workspace/MS2/MemoryGame/images/MemoryGame.jpg)
+[Home wireframe](https://github.com/vinod2rahul/MS2/blob/master/MemoryGame/images/MemoryGame.jpg?raw=true)
 
-##  Surface
-The greyscale color scheme was chosen to create a sleek and modern feel.
 ##  Technologies
 HTML
 
