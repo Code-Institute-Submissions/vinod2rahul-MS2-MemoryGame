@@ -33,8 +33,6 @@ CSS
 
 JavaScript
 
-## Testing
-
 
 
 ##  Deployment

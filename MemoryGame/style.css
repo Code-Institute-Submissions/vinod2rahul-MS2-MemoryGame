@@ -1,6 +1,10 @@
 
+body{
+    background-color: black;
+}
 h1, p, .row {
   text-align: center;
+  color: white;
 }
 
 .card {
