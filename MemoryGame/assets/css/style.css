@@ -1,8 +1,16 @@
-
 body{
-    background-color: black;
+    background-color: #48de97;
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
 }
-h1, p, .row {
+h1,
+p,
+h2,
+h3 {
+  text-align: center;
+  color: white;
+  margin: 0px;
+}
+.row {
   text-align: center;
   color: white;
 }
@@ -13,6 +21,24 @@ h1, p, .row {
   height: 100px;
   background-color: #690909;
   cursor: pointer;
+}
+@media only screen and (max-width: 430px) {
+  .card {
+    width: 60px;
+    height: 60px;
+  }
+}
+@media only screen and (max-width: 275px) {
+  .card {
+    width: 40px;
+    height: 40px;
+  }
+}
+@media only screen and (max-width: 150px) {
+  .card {
+    width: 20px;
+    height: 20px;
+  }
 }
 
 .card.done {
@@ -25,7 +51,7 @@ h1, p, .row {
 }
 
 .card:hover {
-  box-shadow: inset 0px 0px 0px 1px red;
+  box-shadow: inset 0px 0px 0px 1px #48de97;
   box-sizing: border-box;
 }
 
@@ -55,14 +81,16 @@ h1, p, .row {
 }
 
 .color-hidden {
-  background-color: #690909;
+  background-color: darkviolet;
 }
 .button {
 text-align: center;
 
 }
-button{
-    background-color:#0A782F;
-    color: white;
-    cursor: pointer;
+button {
+  background-color: #0e4ba5;
+  color: white;
+  cursor: pointer;
+  width: 90px;
+  height: 40px;
 }
