@@ -1,9 +1,9 @@
-# Memory Game
-Milestone project-2: User- Interactive Front-end - Code Institute.
-This is a simple Memory Game, where the player can click on cards to match the colours, 
-As the cards don’t match, it’s not a pair, so It turns them back over. The two cards match, it’s a pair! It keeps the cards and can play again.
-The player can reset the game at any point of time- It's a single-player game. Language version English.
-[Live Site](https://vinod2rahul.github.io/MS2-MemoryGame/MemoryGame/index.html)
+Milestone project-2: User- Interactive Front-end - Code Institute.<br><br>
+This is a simple Memory Game, where the player can click on cards to match the colours.<br><br>
+As the cards don’t match, it’s not a pair, so It turns them back over. The two cards match it’s a pair! It keeps the cards and can play again.<br><br>
+The player can reset the game at any point of time- It's a single-player game. Language version English.<br><br>
+[Start Playing](https://vinod2rahul.github.io/MS2-MemoryGame/MemoryGame/index.html)
+
 ## User stories
 Must have:
 As a user, I wish it should be simple with easy navigation.
