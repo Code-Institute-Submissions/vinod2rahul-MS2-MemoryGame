@@ -4,15 +4,18 @@ As the cards don’t match, it’s not a pair, so It turns them back over. The t
 The player can reset the game at any point of time- It's a single-player game. Language version English.<br><br>
 [Start Playing](https://vinod2rahul.github.io/MS2-MemoryGame/MemoryGame/index.html)
 
-## User stories
-Must have:
-As a user, I wish it should be simple with easy navigation.
+# User stories
+### Must have:
+- As a user, I wish it should be simple with easy navigation.
+![image](https://github.com/vinod2rahul/MS2/blob/master/MemoryGame/images/Mainpage.jpg?raw=true)
 
-Should have:
-As a user I'd like to read Instructions about how to play the game .
+### Should have:
+- As a user I'd like to read Instructions about how to play the game .
+![image](https://github.com/vinod2rahul/MS2/blob/master/MemoryGame/images/Instructions.jpg?raw=true)
 
-Must have:
-As a user I want to reset the game at any point of time.
+### Must have:
+- As a user I want to reset the game at any point of time.
+![image](https://github.com/vinod2rahul/MS2/blob/master/MemoryGame/images/Gamefinish.jpg?raw=true)
 
 
 #   UX
