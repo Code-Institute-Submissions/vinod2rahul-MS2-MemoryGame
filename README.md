@@ -4,6 +4,8 @@ As the cards don’t match, it’s not a pair, so It turns them back over. The t
 The player can reset the game at any point of time- It's a single-player game. Language version English.<br><br>
 [Start Playing](https://vinod2rahul.github.io/MS2-MemoryGame/MemoryGame/index.html)
 
+![image](https://browser-amethyst-donkey-3lgz3mpj.ws-eu03.gitpod.io/workspace/MS2-MemoryGame/MemoryGame/images/Responsive.jpg)
+
 # User stories
 ### Must have:
 - As a user, I wish it should be simple with easy navigation.
